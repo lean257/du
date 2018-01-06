@@ -31,4 +31,4 @@ python dutest.py
 ```
 
 ### WIP
-1. ability to list only files with specific critiria like du -*
+1. ability to list only files with specific criteria like du -*
