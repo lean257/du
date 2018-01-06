@@ -1,4 +1,10 @@
-### This is a script built to reimplement the disk usage (du) command in python
+### This is a script built to reimplement a subset the disk usage (du) command in python
+
+### Set up
+
+```
+chmod +x ./du.py
+```
 
 ### Commands included:
 
@@ -21,6 +27,12 @@ Get apparent size of files, similar to du --apparent_size in linux
 
 ```
 ./du.py -e .
+```
+
+For help
+
+```
+./du.py -h
 ```
 
 ### Run tests
