@@ -43,3 +43,6 @@ python dutest.py
 
 ### WIP
 1. ability to list only files with specific criteria like du -*
+2. sort file by size
+3. accomodate 2 files
+4. du --max-depth=1
